@@ -1,0 +1,18 @@
+header {
+    background-color: #fefeff;
+    color: rgb(37, 28, 28);
+    }
+     .cabecalho-lista-item{ 
+        float: left;
+        width: 50%;
+    }
+    
+    
+    .cabecalho-imagem{
+        width: 10%;
+        float: left;
+        
+    }
+    .imagem-jogador {
+        width: 20px;
+    }
